@@ -16,6 +16,8 @@
   ],
   "source-url": "https://github.com/raku-community-modules/Concurrent-Progress.git",
   "tags": [
+    "CONCURRENT",
+    "PROGRESS"
   ],
   "test-depends": [
     "Test::Scheduler"
